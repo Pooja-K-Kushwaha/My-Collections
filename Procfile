@@ -1,1 +1,1 @@
-api :gunicorn api:app
+api :gunicorn wsgi:app
